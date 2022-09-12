@@ -1,5 +1,4 @@
-### Hi there 👋
+## Hi there, I'm [Asysama](https://asysama.github.io) 👋
 
-- A junior high school student living in Shenzhen, China.
-- In the school's information competition class.
-- Use C++.
+A junior high school student from China. Like all interesting things and realize it.
+Like watching [ACGN](https://zh.moegirl.org.cn/Mainpage)
