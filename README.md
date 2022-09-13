@@ -74,6 +74,3 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <!-- prettier-ignore-end -->
 
 <!-- interested:end -->
-
-> By the way, are you also curious about how to generate the list?
-> I wrote a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
