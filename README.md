@@ -3,5 +3,5 @@
 - 🎓 Student from [SFLS](https://www.sfls.net.cn). Like all interesting things and realize it.
 - 📺 Like watching [ACGN](https://zh.moegirl.org.cn/Mainpage)
 - 📫 Email me at [1820090402@qq.com](mailto:1820090402@qq.com)
-- 
+- ✍️ My [Blog](https://asysama.github.io)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asysama&layout=compact&langs_count=6)
