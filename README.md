@@ -4,4 +4,6 @@
 - 📺 Like watching [ACGN](https://zh.moegirl.org.cn/Mainpage)
 - 📫 Email me at [1820090402@qq.com](mailto:1820090402@qq.com)
 - ✍️ My [Blog](https://asysama.github.io)
+- ♟ Chinese Chess / Chess 
+- 🎯 Like playing [SIM](https://baike.baidu.com/item/%E6%A8%A1%E6%8B%9F%E7%BB%8F%E8%90%A5%E6%B8%B8%E6%88%8F)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asysama&layout=compact&langs_count=6)
