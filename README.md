@@ -21,4 +21,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 #### Interested
-![AE](https://img.shields.io/badge/-AE-00599C?style=flat-square&logo=AE)
+![AE](https://img.shields.io/badge/-AE-00599C?style=flat-square&logo=adobeaftereffects)
