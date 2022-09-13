@@ -19,6 +19,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 #### Interested
 ![AE](https://img.shields.io/badge/-AE-black?style=flat&logo=adobeaftereffects)
-![Unreal](https://img.shields.io/badge/-Unreal-black?style=flat&logo=unrealengine)  
+![Unreal](https://img.shields.io/badge/-Unreal-black?style=flat&logo=unrealengine)
+![OBS](https://img.shields.io/badge/-OBS-black?style=flat&logo=obsstudio)  
 ![PR](https://img.shields.io/badge/-PR-black?style=flat&logo=adobepremierepro)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)
