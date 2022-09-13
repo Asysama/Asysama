@@ -22,5 +22,6 @@
 
 #### Interested
 ![AE](https://img.shields.io/badge/-AE-black?style=flat&logo=adobeaftereffects)
+![Unreal](https://img.shields.io/badge/-Unreal-5F5F5F?style=flat&logo=unrealengine)
 ![PR](https://img.shields.io/badge/-PR-black?style=flat&logo=adobepremierepro)
-![PR](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)
