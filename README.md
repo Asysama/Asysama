@@ -10,7 +10,7 @@
 - > ###### But now my blog has a little problem?
 ---
 #### Languages
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asysama&layout=compact&langs_count=6"/>
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asysama&layout=compact&langs_count=6&theme=maroongold"/>
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)  
