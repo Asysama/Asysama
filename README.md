@@ -4,4 +4,4 @@
 - 📺 Like watching [ACGN](https://zh.moegirl.org.cn/Mainpage)
 - 📫 Email me at [1820090402@qq.com](mailto:1820090402@qq.com)
 - 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asysama&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asysama&layout=compact&langs_count=6)
