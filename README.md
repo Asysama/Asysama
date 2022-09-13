@@ -13,9 +13,7 @@
 
 #### Languages
 
-<!-- github-stats:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asysama&layout=compact&langs_count=6"/>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
