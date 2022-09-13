@@ -22,4 +22,4 @@
 
 #### Interested
 ![AE](https://img.shields.io/badge/-AE-black?style=flat&logo=adobeaftereffects)
-![PR](https://img.shields.io/badge/-AE-black?style=flat&logo=adobepremierepro)
+![PR](https://img.shields.io/badge/-PR-black?style=flat&logo=adobepremierepro)
