@@ -6,6 +6,8 @@
 - 📫 Email me at [1820090402@qq.com](mailto:1820090402@qq.com)
 - ✍️ My **[Blog](https://asysama.github.io)**!!! Took me a long time!
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asysama&layout=compact&langs_count=6)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
