@@ -15,22 +15,14 @@
 
 
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asysama&layout=compact&langs_count=6"/>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- github-stats:end -->
 
-<!-- languages:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
 
-<!-- languages:end -->
 
 
 #### Interested
