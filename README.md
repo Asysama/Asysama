@@ -17,8 +17,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 #### Interested
 ![AE](https://img.shields.io/badge/-AE-black?style=flat&logo=adobeaftereffects)
