@@ -6,7 +6,7 @@
 - 🎯 Like playing SIM such as ***Cities: Skylines** / Cooking Simulator / Planet Coaster*
 - 📺 Like watching [ACGN](https://zh.moegirl.org.cn/Mainpage), The best I've seen is 花咲くいろは
 - 📫 Email me at [1820090402@qq.com](mailto:1820090402@qq.com)
-- ✍️ My **[Blog](https://asysama.github.io)**!!! Took me a long time!
+- 📝 My **[Blog](https://asysama.github.io)**!!! Took me a long time!
 - > ###### But now my blog has a little problem?
 ---
 #### Languages
